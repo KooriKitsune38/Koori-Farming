@@ -1,0 +1,3 @@
+kill @s
+playsound block.metal.place block @a ~ ~ ~
+execute align xyz run summon armor_stand ~.5 ~ ~.5 {Passengers:[{id:"minecraft:shulker",Silent:1b,NoAI:1b,Health:4f,ActiveEffects:[{Id:14b,Amplifier:0b,Duration:999999999,ShowParticles:false}],DeathLootTable:"minecraft:by_koorikitsune38",Tags:["KooriHarvestShulker"]}],Tags:["KooriHarvestFlower","KooriHFLeft","KooriHFRight"],Invisible:1b,Marker:1b,Small:1b,NoGravity:1b,ArmorItems:[{},{},{},{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:3802,FarmerID:"harvesting_flower",display:{Name:'{"text":"Harvesting Flower","italic": false}'},EntityTag:{Silent:1b,Fixed:1b,Invisible:1b,Invulnerable:1b,Tags:["KooriHarvestFlower"]}}}]}

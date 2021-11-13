@@ -1,0 +1,75 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "KooriHFCarrots": {
+                    "min": 1,
+                    "max": 2147483647
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "KooriHFPotatoes": {
+                    "min": 1,
+                    "max": 2147483647
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "KooriHFWheat": {
+                    "min": 1,
+                    "max": 2147483647
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "KooriHFWheatS": {
+                    "min": 1,
+                    "max": 2147483647
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "KooriHFBeetroots": {
+                    "min": 1,
+                    "max": 2147483647
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "KooriHFBeetrootS": {
+                    "min": 1,
+                    "max": 2147483647
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "KooriHFBerries": {
+                    "min": 1,
+                    "max": 2147483647
+                }
+            }
+        }
+    ]
+}

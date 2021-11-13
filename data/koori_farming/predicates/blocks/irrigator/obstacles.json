@@ -1,0 +1,116 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "offsetX": 1,
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "offsetX": -1,
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "offsetZ": 1,
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "offsetZ": -1,
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "offsetX": 1,
+                "offsetZ": 1,
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "offsetX": -1,
+                "offsetZ": 1,
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "offsetX": 1,
+                "offsetZ": -1,
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:inverted",
+            "term": {
+                "condition": "minecraft:location_check",
+                "offsetX": -1,
+                "offsetZ": -1,
+                "predicate": {
+                    "block": {
+                        "tag": "koori_farming:irrigator_obstacles"
+                    }
+                }
+            }
+        }
+    ]
+}

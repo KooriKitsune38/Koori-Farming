@@ -1,0 +1,32 @@
+[Koori Farming - Ideas]
+
+- Not Done -
+    Fertilizer
+    Composter Bin
+    Trash Bin
+    Planter
+    Harvest melons and pumpkin too
+    Harvest also flowers
+    Flower Upgrades
+    Irrigator Upgrades
+    Soul Soil speeds (upgrade)
+    Soul Sand (with color change)
+    Bee Robot
+    Make the blockage of the irrigator more dynamic, so deeper 2 blocks, and add exceptions for blocks
+    
+- Done -
+    ° Harvester Plants too.
+    ° Storages can now only be placed without chests nearby
+    ° Rethink the harvesting method (using Count instead)
+    ° Tell No Storage with CustomName and Visible
+    ° Lower sound of flower
+    ° Lower Flower health
+    ° Air Check block above for movement
+    ° Add slabs and trapdoors to exeptions
+    ° Pink terracotta switching (with particles)
+    ° Wrench to remove and rotate stuff (rotate flower)
+    ° If flower rotates and the block is still occupied ahead, turn based on the rotation
+    ° Rething the movement
+
+- Discarded -
+    Add Angles to the flower movement

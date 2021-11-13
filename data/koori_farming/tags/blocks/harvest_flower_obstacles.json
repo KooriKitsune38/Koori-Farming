@@ -1,0 +1,24 @@
+{
+    "values": [
+        "air",
+        "dead_bush",
+        "rose_bush",
+        "brown_mushroom",
+        "red_mushroom",
+        "sweet_berry_bush",
+        "#buttons",
+        "#carpets",
+        "#climbable",
+        "#crimson_stems",
+        "#crops",
+        "#fire",
+        "#flowers",
+        "#leaves",
+        "#pressure_plates",
+        "#rails",
+        "#saplings",
+        "grass",
+        "#trapdoors",
+        "tall_grass"
+    ]
+}
